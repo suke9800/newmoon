@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -6,7 +7,7 @@
 <body>
 
     <h1> <a href="https://chat.openai.com/?model=gpt-4">gpt</a>를 위한 사이트</h1>
-    <p4>사진과 버튼을 눌러보시오</p4>
+    <p4>재밌어 형</p4>
 
 
     
