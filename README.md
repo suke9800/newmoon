@@ -10,7 +10,7 @@
 
 
     
-    <a href="https://chat.openai.com/?model=gpt-4"> <img src="newmoon/KakaoTalk_20230827_141027837.jpg">
+    <a href="https://chat.openai.com/?model=gpt-4"> <img src="newmoon/resized_image.jpg">
 </a>
     <a href="https://chat.openai.com/?model=gpt-4"><button>gpt 4 링크</button></a>
     <ul>
